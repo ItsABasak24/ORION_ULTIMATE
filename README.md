@@ -323,7 +323,7 @@ This project is licensed under the MIT License.
 ---
 
 <div align="center">
-  <p>Built with 💚 by <strong>SRIJAN</strong></p>
+  <p>Built with 💚 by <strong>ARNAB</strong></p>
   <p>ORION v2.0 IS LIVE 🚀</p>
 </div>
 
